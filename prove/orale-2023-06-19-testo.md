@@ -12,11 +12,13 @@ Terminato ciò potrete andare a fare l'orale con montori in una stanza a parte.
 Domande relative all'orale di LAM sostenuto dal prof. Montori
 
 Il prof risulta abbastanza puntiglioso nelle spiegazioni, quindi siate precisi e decisi durante l'orale.
-Inoltre a tutti i presenti di quel giorno ha chiesto le stesse domande, in particolare la 1 e la 3.
 
 1. Che cos'è un intent?
 2. Che cos'è un'activity?
 3. Descrivi il modello MVC e quello MVVC spiegando le differenze.
 4. Cos'è un live data, observer?
-5. Come funziona la comunicazione tra thread?
-6. Differenza tra thread e processo.
+6. Come funziona la comunicazione tra thread?
+7. Differenza tra thread e processo.
+8. Cos'è Dalvik?
+9. Tipi di intent.
+10. resources
